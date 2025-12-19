@@ -1,59 +1,41 @@
-good, now rewrite my privacy, remove all information about download video and using dlp library
-# Privacy Policy for Serliz Media Studio
+Privacy Policy for Serliz Media Studio
+Last Updated: 12 November 2024
 
-_Last Updated: 13/10/2025_
+1. Introduction
+Serliz Media Studio ("we," "our," "us," or "the Application") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our desktop application.
 
-> **Important:** Users are solely responsible for complying with all applicable laws and platform terms of service when using this application.
+2. Information We Do Not Collect
+We want to be perfectly clear about what we do not do. This Application does not:
 
-## 1. Introduction
-Serliz Media Studio ("we," "our," or "the Application") is committed to protecting your privacy. This Privacy Policy explains how we handle information in relation to our desktop application.
+Collect personal information: We do not ask for, receive, or store your name, email address, location, or any other personally identifiable information.
 
-## 2. No Data Collection
-**We do not collect, store, or transmit any personal information.** The application:
-- Does not require user registration or accounts
-- Does not collect personal identification information
-- Does not track user activity or usage patterns
-- Does not transmit any data to our servers
-- Does not use analytics or tracking technologies
+Track your activity: We do not monitor, log, or analyze how you use the Application.
 
-## 3. Local Processing Only
-All processing occurs locally on your device:
-- Video and audio files are processed on your computer
-- Transcription and translation services use local models where possible
-- Downloaded content remains on your local storage
-- No files or data are uploaded to external servers
+Access your files without permission: All processing is initiated directly by you, the user.
 
-## 4. Third-Party Services
-The application may interact with:
-- Translation APIs (when online translation is used)
-- Video platforms (when downloading content)
-- FFmpeg (for media processing)
+Transmit data to our servers: All processing occurs locally on your device.
 
-These services have their own privacy policies and terms of use.
+Use cookies or tracking technologies: The Application does not implement any form of user tracking.
 
-## 5. User Responsibility
-**CRITICAL: Users are solely responsible for:**
-- Complying with copyright laws when downloading content
-- Obtaining proper permissions for video downloads
-- Respecting terms of service of video platforms
-- Ensuring legal use of transcribed and translated content
-- Compliance with local laws and regulations
+3. Local Processing
+All processing performed by Serliz Media Studio happens locally on your device:
 
-## 6. Disclaimer of Liability
-**We are not responsible for:**
-- How users utilize the application
-- Content downloaded, transcribed, or translated by users
-- Copyright infringement by users
-- Violation of platform terms of service by users
-- Any illegal or unauthorized use of the application
+Audio/Video Processing: Any media files you select for processing are handled entirely on your computer's hardware. The files are not uploaded to any external server.
 
-Users assume all responsibility for their actions when using Serliz Media Studio.
+Text Processing: Any text you input or that is generated from your media (such as transcripts) remains on your device.
 
-## 7. Age Restrictions
-The application is not intended for children under 13. Users must be of legal age in their jurisdiction to use video downloading and processing tools.
+Storage: All files, including originals and outputs, are saved only to the storage locations you explicitly choose.
 
-## 8. Changes to This Policy
-We may update this Privacy Policy. Continued use of the application after changes constitutes acceptance of the updated policy.
+4. Third-Party Services
+The Application is self-contained and does not rely on external online services for its core functionality. The only potential external interaction would be if you, the user, manually choose to copy a generated transcript or translation into another application.
 
-## 9. Contact Information
-For questions about this Privacy Policy, contact: serlizwork@gmail.com
+5. Data Security
+Since no data is collected or transmitted, the primary security consideration is the security of your own device. We recommend you follow general computer security best practices.
+
+6. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+7. Contact Us
+If you have any questions about this Privacy Policy, please contact us at: serlizwork@gmail.com.
