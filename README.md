@@ -1,3 +1,4 @@
+good, now rewrite my privacy, remove all information about download video and using dlp library
 # Privacy Policy for Serliz Media Studio
 
 _Last Updated: 13/10/2025_
