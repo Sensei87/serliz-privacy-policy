@@ -1,41 +1,101 @@
-Privacy Policy for Serliz Media Studio
-Last Updated: 12 November 2024
+# Privacy Policy for SerlizTech
 
-1. Introduction
-Serliz Media Studio ("we," "our," "us," or "the Application") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our desktop application.
+**Last Updated: October 25, 2026**
 
-2. Information We Do Not Collect
-We want to be perfectly clear about what we do not do. This Application does not:
+## 1. Introduction
 
-Collect personal information: We do not ask for, receive, or store your name, email address, location, or any other personally identifiable information.
+SerlizTech ("we," "our," "us," or "the Application") is committed to respecting your privacy. This Privacy Policy explains how our desktop media-processing application handles information when you use it.
 
-Track your activity: We do not monitor, log, or analyze how you use the Application.
+Our application provides tools for processing audio and video, downloading media from supported sources, and generating text transcripts using speech recognition technology.
 
-Access your files without permission: All processing is initiated directly by you, the user.
+We aim to keep your files and processing activities on your own device and to minimize the collection of personal information.
 
-Transmit data to our servers: All processing occurs locally on your device.
+## 2. Information We Do Not Collect
 
-Use cookies or tracking technologies: The Application does not implement any form of user tracking.
+SerlizTech does not intentionally collect or store your personal information through its core local-processing functionality. Specifically, the application does not require you to provide your name, email address, or other personally identifiable information to use its core features.
 
-3. Local Processing
-All processing performed by Serliz Media Studio happens locally on your device:
+The application does not intentionally send your locally processed media files, generated transcripts, or translations to SerlizTech servers.
 
-Audio/Video Processing: Any media files you select for processing are handled entirely on your computer's hardware. The files are not uploaded to any external server.
+We do not use the application's core local-processing functionality to track or analyze your activity, and the application does not implement its own advertising cookies or user-tracking system.
 
-Text Processing: Any text you input or that is generated from your media (such as transcripts) remains on your device.
+However, when you use online media-download functionality, your device may communicate with third-party websites. Those communications are described in Section 4.
 
-Storage: All files, including originals and outputs, are saved only to the storage locations you explicitly choose.
+## 3. Local Processing and File Storage
 
-4. Third-Party Services
-The Application is self-contained and does not rely on external online services for its core functionality. The only potential external interaction would be if you, the user, manually choose to copy a generated transcript or translation into another application.
+Where supported by the selected feature, processing takes place locally on your computer:
 
-5. Data Security
-Since no data is collected or transmitted, the primary security consideration is the security of your own device. We recommend you follow general computer security best practices.
+- **Audio and video processing:** Media files selected for processing are handled on your device using local processing tools.
+- **Speech recognition and transcription:** The application uses Whisper.net for speech-recognition functionality. Audio processing and transcript generation are performed locally when the configured model and runtime operate locally.
+- **File storage:** Original media files, downloaded files, audio extracts, transcripts, and other generated outputs are stored in the locations selected or configured by you.
+- **User control:** You initiate processing actions and select the media or locations used by the application.
 
-6. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
+Your files are not uploaded to SerlizTech servers as part of these local-processing operations.
 
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+Please note that files may be accessible to other applications or users who have appropriate access to your computer or storage locations.
 
-7. Contact Us
-If you have any questions about this Privacy Policy, please contact us at: serlizwork@gmail.com.
+## 4. Third-Party Tools and Online Services
+
+SerlizTech uses third-party software components to provide certain features. These components have their own licenses and terms of use.
+
+### yt-dlp
+
+The application uses **yt-dlp**, an open-source command-line tool, to download media from supported online sources.
+
+When you use a media-download feature, yt-dlp may connect to third-party websites or platforms to retrieve media information and download content. These connections may expose technical information, such as your IP address, to the relevant third-party service.
+
+The information collected by those services is governed by their respective privacy policies and practices. SerlizTech does not control how third-party websites collect or process information.
+
+Users are responsible for ensuring that their downloads comply with applicable laws, copyright requirements, platform terms of service, and any other applicable restrictions.
+
+### FFmpeg
+
+The application uses **FFmpeg** for audio and video processing, including supported media conversion and extraction operations.
+
+FFmpeg performs the relevant processing locally on your computer when used by the application in its local-processing workflow. It does not require uploading your media files to SerlizTech servers for these operations.
+
+FFmpeg is third-party software distributed under the applicable license for the particular version and build used.
+
+### Free and Non-Commercial Use
+
+SerlizTech uses yt-dlp and FFmpeg as third-party tools in its application and intends to make their functionality available for free, non-commercial use.
+
+This statement describes our intended use of these tools and does not change their respective open-source licenses or override any third-party terms, copyright restrictions, or legal requirements. The licensing conditions applicable to the specific versions and builds distributed with the application remain relevant.
+
+SerlizTech does not claim ownership of yt-dlp, FFmpeg, or the third-party media accessed through these tools.
+
+### Other Third-Party Services
+
+The application does not intentionally send your locally processed files or transcripts to SerlizTech servers. However, online media downloads require communication with the relevant third-party services.
+
+If you manually copy or share a transcript, translation, media file, or other output using another application or online service, that service's own privacy policy will apply.
+
+## 5. Data Security
+
+Because the application performs its core processing locally, the security of your computer and storage locations is an important part of protecting your information.
+
+We recommend that you:
+
+- Keep your operating system and security software up to date.
+- Store sensitive files in secure locations.
+- Use appropriate access controls for your computer and files.
+- Download software and updates from trusted sources.
+
+Although local processing helps reduce the need to transfer files to external servers, no computer system or storage method can be guaranteed to be completely secure.
+
+## 6. Children's Privacy
+
+SerlizTech does not intentionally collect personal information from children through its core local-processing functionality. Parents and guardians are responsible for supervising children's use of the application and ensuring that its use complies with applicable laws and platform requirements.
+
+## 7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. When changes are made, we will publish the revised policy on this page and update the "Last Updated" date.
+
+You are encouraged to review this policy periodically. Changes become effective when the revised policy is published.
+
+## 8. Contact Us
+
+If you have questions about this Privacy Policy or the application's handling of information, please contact us at:
+
+Email: serliztech@gmail.com 
+
+Company: SerlizTech
